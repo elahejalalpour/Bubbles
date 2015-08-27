@@ -11,7 +11,7 @@
 /**
  * @author Elahe Jalalpour
  */
-package bubbles;
+package me.elahe.bubbles;
 
 public class Main {
 

@@ -47,7 +47,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>me.elahe.bubbles</mainClass>
+                            <mainClass>me.elahe.bubbles.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

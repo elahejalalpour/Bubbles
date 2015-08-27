@@ -15,7 +15,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package bubbles;
+package me.elahe.bubbles;
 
 import java.awt.Point;
 import java.awt.event.MouseEvent;
