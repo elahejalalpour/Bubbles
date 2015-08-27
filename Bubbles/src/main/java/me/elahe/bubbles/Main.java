@@ -16,7 +16,6 @@ package me.elahe.bubbles;
 public class Main {
 
 	public static void main(String[] args) {
-		Frame f = new Frame();
-		f.running();
+		new BubblesFrame().setVisible(true);
 	}
 }
